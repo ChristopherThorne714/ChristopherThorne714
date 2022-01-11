@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChristopherThorne714
-- 👀 I’m interested in full stack dedvelopment and computer forensics
+- 👀 I’m interested in full stack development and computer forensics
 - 🌱 I’m currently learning html, python, css, and mysql
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
